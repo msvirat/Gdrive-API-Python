@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/59212443/google-drive-api-with-python-not-allowing-file-download-despite-correct-scopes-b
